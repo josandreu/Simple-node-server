@@ -1,0 +1,12 @@
+html,
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  color: cornflowerblue;
+}
+
+h1.index {
+  color: crimson;
+}
