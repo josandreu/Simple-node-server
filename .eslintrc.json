@@ -26,7 +26,8 @@
     ],
     "no-unused-vars": "off",
     "func-names": ["error", "never"],
-    "prettier/prettier": ["error", { "singleQuote": true }]
+    "prettier/prettier": ["error", { "singleQuote": true }],
+    "import/no-unresolved": ["off", { "commonjs": true, "caseSensitive": true }]
   },
   "plugins": ["html"]
 }
